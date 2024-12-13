@@ -1,0 +1,138 @@
+body {
+    background-color: #e6e6ff;
+    font-family: Inter;
+    font-weight: 800;
+    color: #1e1738;
+    overscroll-behavior: none !important;
+}
+
+main {
+    min-height: 85vh;
+    padding-inline: 10%;
+    max-width: 100vw;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.color-purple {
+    color: #462e9e
+}
+
+.color-purple-white {
+    color: #e6e6ff;
+}
+
+.bg-c-lp {
+    background-color: #c2c2ff;
+}
+
+.w-fc {
+    width: fit-content;
+}
+
+.w-min-250 {
+    min-width: 250px;
+}
+
+.w-max-100 {
+    max-width: 100%;
+}
+
+.w-max-85 {
+    max-width: 85%;
+}
+
+.w-45vw {
+    max-width: 45vw;
+}
+
+.w-300 {
+    width: 325px;
+}
+
+.w-600 {
+    width: 600px;
+}
+
+.w-700 {
+    width: 700px;
+}
+
+.w-800 {
+    width: 800px;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.h-min-150 {
+    min-height: 150px;
+}
+
+.h-max-600 {
+    max-height: 600px;
+}
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+.mt-70 {
+    margin-top: 70px;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.mt-120 {
+    margin-top: 120px;
+}
+
+.mt-230 {
+    margin-top: 230px;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.mb-90 {
+    margin-bottom: 90px;
+}
+
+.mb-140 {
+    margin-bottom: 140px;
+}
+
+.g-50 {
+    gap: 50px;
+}
+
+.btn-purple {
+    background-color: #462e9e;
+    color: #e6e6ff;
+    width: 170px;
+    height: 45px;
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-top: 10px;
+    user-select: none;
+}
+
+.btn-purple:hover {
+    background-color: #241752;
+    cursor: pointer;
+}
